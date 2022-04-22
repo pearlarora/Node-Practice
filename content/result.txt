@@ -1,1 +1,1 @@
-Here is the result: This is first.txt, This is second.txt
+Writing using writeFilePromise: This is first.txt, This is second.txt
